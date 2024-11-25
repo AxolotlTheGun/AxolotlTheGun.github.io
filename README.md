@@ -1,2 +1,2 @@
 # AxolotlTheGun.github.io
-website for CSC 193A
+assignments for CSC 193A
